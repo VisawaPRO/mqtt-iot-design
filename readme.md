@@ -1,4 +1,4 @@
-เข้า raspberry pi พิมพ์ cd /home/kmitl
+เข้า raspberry pi พิมพ์ cd /home/kmitl/backend
 เพิ่มไฟล์ mqtt.js และ readcfg.js ใช้ sudo
 tag1["status"] ส่งได้ตัวเลข
 tag1["label"] ต้องตรงกับด้านบน iotdesign
